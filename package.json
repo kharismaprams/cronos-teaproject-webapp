@@ -1,0 +1,21 @@
+{
+  "name": "cronos-teaproject-webapp",
+  "version": "1.0.0",
+  "description": "This project created for Tea.xyz based on CRO Token MultiSender - Cronos project created by @kharismaprams",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": "keywords": [
+    "cronos",
+    "kharismaprams",
+    "tea project",
+    "multisender",
+    "token multi sender"
+  ],
+  "author": "Kharisma Prams",
+  "license": "MIT",
+  "dependencies": {
+    "cro-token-multisender-cronos": "^1.0.0"
+  }
+}
